@@ -28,3 +28,23 @@ Aero OS是一个基于scratch 3.0的精简图形化操作系统
 
 
 版本：2023/04/02 - sigma_ver 0.17 晚春公测
+
+
+README- English：
+Thank you for using Aero OS! Aero OS is a stripped graphical operating system based on scratch 3.0
+
+The system body by [Mirror Ink Studio] Boli Jingling
+
+Interface design by 【Mirror Ink Studio】Gumingdi Mirror Spirit
+
+Offline page design by 【Kagami Studio】White Kagamizawa
+
+Other by all members of Mirror Ink Studio
+
+Special Thanks: Divine Pen Studio Starlight Studio @共创世界 Xiaohu_
+
+Instructions: Since Scratch does not have a plug-in for this work to connect to the Internet, "Lingze Browser" is only for preview, and all pages are offline pages. In addition, some functions of the Internet can theoretically be realized through the cloud plug-in unique to the Co-creation World Editor. This feature is under development, so stay tuned.
+
+Co-creation world works link: https://www.ccw.site/detail/63a2fe204c27223dae180e4d
+
+Version: 2023/04/02 - sigma_ver 0.17 Late Spring Common Test
