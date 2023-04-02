@@ -36,4 +36,4 @@ README- 日本語：
 
 世界の共創リンク:https://www.ccw.site/detail/63a2fe204c27223dae180e4d
 
-バージョン: 2023/04/02 - sigma_ver 0.17 晩春公開テスト
+バージョン: 2023/04/02 - sigma_ver 0.17 晩春公開テスト 
